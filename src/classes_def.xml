@@ -2,5 +2,6 @@
 <selection>
   <class name="SoftDropWrapper"/>
   <class name="NsubjettinessWrapper"/>
+  <class name="ECFWrapper"/>
 </selection>
 </lcgdict>

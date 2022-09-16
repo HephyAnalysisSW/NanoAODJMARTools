@@ -6,6 +6,8 @@ ROOT.PyConfig.IgnoreCommandLineOptions = True
 from PhysicsTools.NanoAODTools.postprocessing.framework.postprocessor import PostProcessor
 
 from PhysicsTools.NanoAODJMARTools.postprocessing.modules.jme.nsubjettiness import *
+import PhysicsTools.NanoAODJMARTools.postprocessing.modules.jme.nsubjettiness as nsubjettiness
+
 
 files=[
     #"root://cmseos.fnal.gov//store/user/asparker/NanoAODJMARTools-skims//nanoskim-JetsandLepton-SingleMuon17B-trees.root",
